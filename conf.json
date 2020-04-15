@@ -1,0 +1,26 @@
+{
+        "KB4490628": {
+            "64": "windows6.1-kb4490628-x64_d3de52d6987f7c8bdc2c015dca69eac96047c76e.msu",
+            "32": "windows6.1-kb4490628-x86_3cdb3df55b9cd7ef7fcb24fc4e237ea287ad0992.msu"
+        },
+        "KB4536952": {
+            "64": "windows6.1-kb4536952-x64_87f81056110003107fa0e0ec35a3b600ef300a14.msu",
+            "32": "windows6.1-kb4536952-x86_f3b49481187651f64f13a0369c86ad7caa83b190.msu"
+        },
+        "KB4538483": {
+            "64": "windows6.1-kb4538483-x64_5c1336947b1d530b1d7adc2c1fe966edb71aed6b.msu",
+            "32": "windows6.1-kb4538483-x64_5c1336947b1d530b1d7adc2c1fe966edb71aed6b.msu"
+        },
+        "KB4541110": {
+            "64": "5.windows6.1-kb4541110-x64.msu",
+            "32": "5.windows6.1-kb4541110-x86.msu"
+        },
+        "KB4537813": {
+            "64": "windows6.1-kb4537813-x64_9747e7510da5a465ee86597bb35da721bb364785.msu",
+            "32": "5.windows6.1-kb4541110-x86.msu"
+        },
+        "KB4537767": {
+            "64": "windows6.1-kb4537767-x64_89057020693038590deadd9a357c4c5d1ff8233a.msu",
+            "32": "5.windows6.1-kb4541110-x86.msu"
+        }
+}
